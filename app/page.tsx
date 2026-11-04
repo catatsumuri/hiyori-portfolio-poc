@@ -139,7 +139,7 @@ export default function Home() {
           </div>
           <div className="hero-portrait">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-pjiVXhpYgfj3RnQfbVHhcLplp4qqou.png"
+              src="/images/hiyori-portrait.png"
               alt="ノートパソコンを使う笑顔の女性"
               width={498}
               height={429}
