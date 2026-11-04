@@ -139,8 +139,8 @@ export default function Home() {
           </div>
           <div className="hero-portrait">
             <Image
-              src="/images/hiyori-portrait.webp"
-              alt="架空のエンジニア、水瀬ひよりのイメージとしてAI生成された人物写真"
+              src="/images/hiyori-portrait.svg"
+              alt="架空のエンジニア、水瀬ひよりのオリジナルイラスト"
               width={498}
               height={429}
               sizes="(max-width: 760px) 100vw, 30vw"
